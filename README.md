@@ -21,3 +21,9 @@
 3. Third item
 
 ---
+
+`code $v`
+
+---
+
+text regular
